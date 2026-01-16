@@ -173,8 +173,7 @@ cd customer-churn-prediction
 pip install -r requirements.txt
 streamlit run app.py
 
-```md
-
+---
 
 ## 🙌 **10. Acknowledgements**
 
@@ -187,5 +186,3 @@ streamlit run app.py
 
 - **Name:** **Manu Didwania**
 - **GitHub:** **https://github.com/Manu082**
-
-
