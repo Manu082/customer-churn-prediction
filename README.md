@@ -165,24 +165,22 @@ The Streamlit dashboard allows users to:
 
 ---
 
-## 🚀 **9. How to Run Locally**
+## 🙌 **09. Acknowledgements**
+
+- **Dataset inspired by telecom churn data**
+- **Open-source Python and Streamlit community**
+
+## 📬 **10. Contact**
+
+- **Name:** **Manu Didwania**
+- **GitHub:** **https://github.com/Manu082**
+
+---
+
+## 🚀 **11. How to Run Locally**
 
 ```bash
 git clone https://github.com/Manu082/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
 streamlit run app.py
-
----
-
-## 🙌 **10. Acknowledgements**
-
-- **Dataset inspired by telecom churn data**
-- **Open-source Python and Streamlit community**
-
----
-
-## 📬 **11. Contact**
-
-- **Name:** **Manu Didwania**
-- **GitHub:** **https://github.com/Manu082**
