@@ -170,6 +170,8 @@ The Streamlit dashboard allows users to:
 - **Dataset inspired by telecom churn data**
 - **Open-source Python and Streamlit community**
 
+---
+
 ## 📬 **10. Contact**
 
 - **Name:** **Manu Didwania**
@@ -184,3 +186,4 @@ git clone https://github.com/Manu082/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
 streamlit run app.py
+
