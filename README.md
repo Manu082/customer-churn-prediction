@@ -168,6 +168,7 @@ The Streamlit dashboard allows users to:
 ## 🙌 **09. Acknowledgements**
 
 - **Dataset inspired by telecom churn data**
+  -https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 - **Open-source Python and Streamlit community**
 
 ---
@@ -186,4 +187,5 @@ git clone https://github.com/Manu082/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
 streamlit run app.py
+
 
