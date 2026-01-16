@@ -82,18 +82,17 @@ customer-churn-prediction/
 │ └── cleaned_churn_data.csv
 │
 ├── models/
-│ ├── best_model.pkl
-│ ├── scaler.pkl
-│ └── feature_names.pkl
+│ ├── best_model.pkl # Trained ML model
+│ ├── scaler.pkl # Feature scaler
+│ └── feature_names.pkl # Model feature list
 │
 ├── src/
-│ ├── data_preprocessing.py
-│ ├── feature_engineering.py
-│ └── model_training.py
+│ ├── data_preprocessing.py # Data cleaning
+│ ├── feature_engineering.py # Encoding & scaling
+│ └── model_training.py # Model training & evaluation
 │
 ├── notebooks/ # Jupyter notebooks (EDA & experiments)
 └── reports/ # Analysis reports & insights
-
 
 ---
 
@@ -174,16 +173,19 @@ cd customer-churn-prediction
 pip install -r requirements.txt
 streamlit run app.py
 
+```md
+
+
+## 🙌 **10. Acknowledgements**
+
+- **Dataset inspired by telecom churn data**
+- **Open-source Python and Streamlit community**
+
 ---
 
-## 🙌 10. Acknowledgements
+## 📬 **11. Contact**
 
-Dataset inspired by telecom churn data
+- **Name:** **Manu Didwania**
+- **GitHub:** **https://github.com/Manu082**
 
-Open-source Python and Streamlit community
-
-## 📬 11. Contact
-
-Manu Didwania  
-🔗 GitHub: https://github.com/Manu082
 
